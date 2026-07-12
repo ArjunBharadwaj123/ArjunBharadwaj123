@@ -2,13 +2,15 @@
 
 Computer Science student at the University of Maryland, AWS Certified Cloud Practitioner. I build full-stack, ML/AI-powered applications — from predictive models to retrieval-augmented systems.
 
+**Junior (May 2027) — open to SWE/MLE internships.**
+
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, JavaScript
-- **Backend:** FastAPI, Flask
+- **Languages:** Python, JavaScript, TypeScript
+- **Backend:** FastAPI, Django
 - **ML/AI:** XGBoost, SHAP, SentenceTransformers, OpenAI API, RAG pipelines
 - **Frontend:** React (Vite)
-- **Data:** pandas, scikit-learn, SQLAlchemy, PostgreSQL, SQLite
+- **Data:** pandas, scikit-learn, SQLAlchemy, PostgreSQL, pgvector, SQLite
 - **Tools:** Docker, Git, AWS
 
 ## 🚀 Featured Projects
@@ -21,4 +23,4 @@ Computer Science student at the University of Maryland, AWS Certified Cloud Prac
 
 ## 📫 Connect
 
-- GitHub: [@ArjunBharadwaj123](https://github.com/ArjunBharadwaj123)
+- LinkedIn: [Arjun Bharadwaj](https://www.linkedin.com/in/arjun-bharadwaj-252a76290/)
