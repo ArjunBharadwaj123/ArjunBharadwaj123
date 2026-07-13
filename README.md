@@ -2,7 +2,7 @@
 
 Computer Science student at the University of Maryland, AWS Certified Cloud Practitioner. I build full-stack, ML/AI-powered applications — from predictive models to retrieval-augmented systems.
 
-**Junior (May 2027) — open to SWE/MLE internships.**
+**Senior (May 2027) — open to SWE/MLE internships.**
 
 ## 🛠️ Tech Stack
 
